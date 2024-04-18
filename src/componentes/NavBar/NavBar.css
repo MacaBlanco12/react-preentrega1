@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-image: radial-gradient(circle, #ebaccb, #f8e5ee, #f0c7d9, #e4b7ca);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logoSinFondo{
+    width: 10%;
+    margin: 20px;
+}
+
+.lista {
+    
+    font-size: 15px;
+    font-family: "Champagne & Limousines V1";
+    color: #2E3976;
+}
+
+.lista li {
+    margin: 20px;
+    font-weight: bold;
+    color: #192241;
+
+}
